@@ -1,0 +1,29 @@
+.body{
+    background-color: #9A5C4D;
+}
+
+.card{
+    border: green;
+    border-width: 7px;
+    border-color: #3F3937 ;
+    text-shadow: #3F3937;
+    background-color: #9A5C4D;
+    opacity: 0.3;
+    font-weight: bold;
+    border-radius: 20px;
+    
+}
+img{
+    text-align: center;
+    border-radius: 10px;
+}
+h2{
+    text-align: center;
+    text-emphasis-color: #3F3937;
+    opacity: 0.7;
+}
+#signIn{
+    border-radius: 7px;
+}
+
+
